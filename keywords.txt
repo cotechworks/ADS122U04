@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map SD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADS122U04       KEYWORD1 ADS122U04
+OperatingMode   KEYWORD1 ADS122U04
+ErrorState      KEYWORD1 ADS122U04
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	        KEYWORD2
+setConfig	    KEYWORD2
+SendCommand	    KEYWORD2
+start	        KEYWORD2
+reset	        KEYWORD2
+checkError	    KEYWORD2
+readAdc	        KEYWORD2
+writeRegister	KEYWORD2
+readRegister	KEYWORD2
+setErrorInfo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
